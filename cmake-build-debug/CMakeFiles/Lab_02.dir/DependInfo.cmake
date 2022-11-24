@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/37756/Documents/NJU/2022Fall/Computer and Operating System/Labs/Lab-02/src/main.cpp" "C:/Users/37756/Documents/NJU/2022Fall/Computer and Operating System/Labs/Lab-02/cmake-build-debug/CMakeFiles/Lab_02.dir/src/main.cpp.obj"
+  "C:/Users/37756/Documents/NJU/2022Fall/Computer and Operating System/Labs/OS-Lab2/src/main.cpp" "C:/Users/37756/Documents/NJU/2022Fall/Computer and Operating System/Labs/OS-Lab2/cmake-build-debug/CMakeFiles/Lab_02.dir/src/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

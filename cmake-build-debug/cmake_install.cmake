@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/37756/Documents/NJU/2022Fall/Computer and Operating System/Labs/Lab-02
+# Install script for directory: C:/Users/37756/Documents/NJU/2022Fall/Computer and Operating System/Labs/OS-Lab2
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/37756/Documents/NJU/2022Fall/Computer and Operating System/Labs/Lab-02/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/37756/Documents/NJU/2022Fall/Computer and Operating System/Labs/OS-Lab2/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
