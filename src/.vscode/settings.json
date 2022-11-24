@@ -1,0 +1,26 @@
+{
+    "files.associations": {
+        "*.s": "platformio-debug.asm",
+        "*.cjson": "jsonc",
+        "*.wxss": "css",
+        "*.wxs": "javascript",
+        "new": "cpp",
+        "istream": "cpp",
+        "string": "cpp",
+        "*.tcc": "cpp",
+        "functional": "cpp",
+        "fstream": "cpp",
+        "streambuf": "cpp",
+        "typeinfo": "cpp",
+        "array": "cpp",
+        "atomic": "cpp",
+        "system_error": "cpp",
+        "type_traits": "cpp",
+        "ostream": "cpp",
+        "sstream": "cpp",
+        "tuple": "cpp",
+        "utility": "cpp",
+        "cstdio": "cpp",
+        "iostream": "cpp"
+    }
+}

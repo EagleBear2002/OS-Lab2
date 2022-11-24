@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/37756/Documents/NJU/2022Fall/Computer and Operating System/Labs/Lab-02/src/main.cpp
+cstdio
+-
+cstring
+-
+iostream
+-
+regex
+-
+vector
+-
+

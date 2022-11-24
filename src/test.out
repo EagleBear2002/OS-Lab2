@@ -1,0 +1,14 @@
+> ls A2/NJU/SOFTWARE/SE0.TXT
+ERROR: File type error!!
+> cat A2/NJU/SOFTWARE/
+ERROR: File type error!!
+> cat A2/NJU/SOFTWARE/SE1.TXT
+25000310
+Software Engineering and Computing I
+> cat A2/NJU/SOFTWARE/SE2.TXT
+25000320
+Software Engineering and Computing II
+> cat A2/NJU/SOFTWARE/SE0.TXT
+00000010
+document is always right.> exit
+Bye!

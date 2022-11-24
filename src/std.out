@@ -1,0 +1,85 @@
+> cat ROLL.TXT
+This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.This is the content of ROLL.txt.
+> ls
+/:
+HOUSE NJU ROLL.TXT 
+/HOUSE/:
+. .. ROOM 
+/HOUSE/ROOM/:
+. .. 
+/NJU/:
+. .. CS ABOUT.TXT SOFEWARE 
+/NJU/CS/:
+. .. 
+/NJU/SOFEWARE/:
+. .. SE1.TXT SE2.TXT 
+> ls -l
+/ 2 1:
+HOUSE 1 0
+NJU 2 1
+ROLL.TXT 2433
+
+/HOUSE/ 1 0:
+. 
+.. 
+ROOM 0 0
+
+/HOUSE/ROOM/ 0 0:
+. 
+.. 
+
+/NJU/ 2 1:
+. 
+.. 
+CS 0 0
+ABOUT.TXT 3361
+SOFEWARE 0 2
+
+/NJU/CS/ 0 0:
+. 
+.. 
+
+/NJU/SOFEWARE/ 0 2:
+. 
+.. 
+SE1.TXT 0
+SE2.TXT 0
+
+> ls -ll
+/ 2 1:
+HOUSE 1 0
+NJU 2 1
+ROLL.TXT 2433
+
+/HOUSE/ 1 0:
+. 
+.. 
+ROOM 0 0
+
+/HOUSE/ROOM/ 0 0:
+. 
+.. 
+
+/NJU/ 2 1:
+. 
+.. 
+CS 0 0
+ABOUT.TXT 3361
+SOFEWARE 0 2
+
+/NJU/CS/ 0 0:
+. 
+.. 
+
+/NJU/SOFEWARE/ 0 2:
+. 
+.. 
+SE1.TXT 0
+SE2.TXT 0
+
+> ls -l /NJU
+ERROR: No such file!
+> ls /NJU -l
+ERROR: No such file!
+> exit
+Bye!

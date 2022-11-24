@@ -1,0 +1,3 @@
+C:/Users/37756/Documents/NJU/2022Fall/Computer and Operating System/Labs/Lab-02/cmake-build-debug/CMakeFiles/Lab_02.dir
+C:/Users/37756/Documents/NJU/2022Fall/Computer and Operating System/Labs/Lab-02/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/37756/Documents/NJU/2022Fall/Computer and Operating System/Labs/Lab-02/cmake-build-debug/CMakeFiles/rebuild_cache.dir
